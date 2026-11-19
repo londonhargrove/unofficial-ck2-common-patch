@@ -26,4 +26,4 @@ Start a fresh local campaign for initial testing. The inherited package descript
 
 The original project was published as **EliteNinjaX**. The original release credits the Colosseum work to **When the World Stopped Making Sense**.
 
-[GPL-3.0-only](LICENSE) applies to this README and project-owned contributions explicitly marked with that license. Inherited game data, artwork, and third-party mod material retain their original terms. Publication of this split repository is pending review of the rights to redistribute those files and their historical revisions.
+[GPL-3.0-only](LICENSE) applies to this README and project-owned contributions explicitly marked with that license. Inherited game data, artwork, and third-party mod material retain their original terms. This GPL notice grants permissions only for the files it expressly covers.
