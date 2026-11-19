@@ -20,7 +20,7 @@ Start a fresh local campaign for initial testing. The inherited package descript
 
 ## Companion project
 
-[Unofficial CK2 Engine Patch](https://github.com/LondonHargrove/unofficial-engine-patch) handles executable-level compatibility and achievement behavior. The Common Patch can be developed and tested independently. Loose-file changes can affect CK2's achievement checksum.
+[Unofficial CK2 Engine Patch](https://github.com/londonhargrove/unofficial-ck2-engine-patch) handles executable-level compatibility and achievement behavior. The Common Patch can be developed and tested independently. Loose-file changes can affect CK2's achievement checksum.
 
 ## Credits and licensing
 
