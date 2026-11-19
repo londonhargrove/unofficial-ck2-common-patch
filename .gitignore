@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.ck2
+*.zip
+*.exe
+*.dll
+*.pdb
+*.so
+*.dylib
+settings.txt
+logs/
+save games/
